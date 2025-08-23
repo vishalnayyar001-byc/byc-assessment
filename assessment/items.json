@@ -1,0 +1,944 @@
+{
+  "meta": {
+    "version": "2.0",
+    "last_updated": "2025-08-23"
+  },
+  "big5": [
+    {
+      "id": "b1",
+      "trait": "Extraversion",
+      "text": "I enjoy starting conversations.",
+      "reverse": false
+    },
+    {
+      "id": "b2",
+      "trait": "Extraversion",
+      "text": "I feel energized in group settings.",
+      "reverse": false
+    },
+    {
+      "id": "b3",
+      "trait": "Extraversion",
+      "text": "I prefer to stay in the background.",
+      "reverse": true
+    },
+    {
+      "id": "b4",
+      "trait": "Extraversion",
+      "text": "I avoid being the center of attention.",
+      "reverse": true
+    },
+    {
+      "id": "b5",
+      "trait": "Agreeableness",
+      "text": "I am considerate of other people's feelings.",
+      "reverse": false
+    },
+    {
+      "id": "b6",
+      "trait": "Agreeableness",
+      "text": "I am polite and respectful even in disagreement.",
+      "reverse": false
+    },
+    {
+      "id": "b7",
+      "trait": "Agreeableness",
+      "text": "I enjoy arguing just to win the point.",
+      "reverse": true
+    },
+    {
+      "id": "b8",
+      "trait": "Agreeableness",
+      "text": "I can be blunt even when it hurts.",
+      "reverse": true
+    },
+    {
+      "id": "b9",
+      "trait": "Conscientiousness",
+      "text": "I like to plan my day and stick to it.",
+      "reverse": false
+    },
+    {
+      "id": "b10",
+      "trait": "Conscientiousness",
+      "text": "I keep my study/work materials organized.",
+      "reverse": false
+    },
+    {
+      "id": "b11",
+      "trait": "Conscientiousness",
+      "text": "I often leave tasks unfinished.",
+      "reverse": true
+    },
+    {
+      "id": "b12",
+      "trait": "Conscientiousness",
+      "text": "I struggle to be on time.",
+      "reverse": true
+    },
+    {
+      "id": "b13",
+      "trait": "Openness",
+      "text": "I enjoy exploring new ideas and perspectives.",
+      "reverse": false
+    },
+    {
+      "id": "b14",
+      "trait": "Openness",
+      "text": "I like creative tasks such as design, writing or music.",
+      "reverse": false
+    },
+    {
+      "id": "b15",
+      "trait": "Openness",
+      "text": "I prefer familiar topics over new ones.",
+      "reverse": true
+    },
+    {
+      "id": "b16",
+      "trait": "Openness",
+      "text": "I rarely try new activities.",
+      "reverse": true
+    },
+    {
+      "id": "b17",
+      "trait": "Emotional Stability",
+      "text": "I stay calm when under pressure.",
+      "reverse": false
+    },
+    {
+      "id": "b18",
+      "trait": "Emotional Stability",
+      "text": "I can handle setbacks without losing focus.",
+      "reverse": false
+    },
+    {
+      "id": "b19",
+      "trait": "Emotional Stability",
+      "text": "I get stressed easily.",
+      "reverse": true
+    },
+    {
+      "id": "b20",
+      "trait": "Emotional Stability",
+      "text": "Small problems upset me more than they should.",
+      "reverse": true
+    },
+    {
+      "id": "b21",
+      "trait": "Extraversion",
+      "text": "I like collaborating with new people.",
+      "reverse": false
+    },
+    {
+      "id": "b22",
+      "trait": "Agreeableness",
+      "text": "I am patient when others are learning.",
+      "reverse": false
+    },
+    {
+      "id": "b23",
+      "trait": "Openness",
+      "text": "I enjoy learning about how technology works.",
+      "reverse": false
+    },
+    {
+      "id": "b24",
+      "trait": "Conscientiousness",
+      "text": "I double‑check my work before submitting.",
+      "reverse": false
+    }
+  ],
+  "riasec": [
+    {
+      "id": "r1",
+      "domain": "Realistic",
+      "text": "Repair a bicycle or gadget"
+    },
+    {
+      "id": "r2",
+      "domain": "Realistic",
+      "text": "Operate tools or machines"
+    },
+    {
+      "id": "r3",
+      "domain": "Realistic",
+      "text": "Do lab practicals or field work"
+    },
+    {
+      "id": "r4",
+      "domain": "Realistic",
+      "text": "Assemble a DIY kit"
+    },
+    {
+      "id": "r5",
+      "domain": "Realistic",
+      "text": "Work outdoors on a project"
+    },
+    {
+      "id": "r6",
+      "domain": "Investigative",
+      "text": "Analyze data to find patterns"
+    },
+    {
+      "id": "r8",
+      "domain": "Investigative",
+      "text": "Design an experiment"
+    },
+    {
+      "id": "r10",
+      "domain": "Investigative",
+      "text": "Solve logic puzzles"
+    },
+    {
+      "id": "r12",
+      "domain": "Investigative",
+      "text": "Research a topic deeply"
+    },
+    {
+      "id": "r14",
+      "domain": "Investigative",
+      "text": "Write code to automate a task"
+    },
+    {
+      "id": "r11",
+      "domain": "Artistic",
+      "text": "Create a digital design or poster"
+    },
+    {
+      "id": "r13",
+      "domain": "Artistic",
+      "text": "Compose music or beats"
+    },
+    {
+      "id": "r15",
+      "domain": "Artistic",
+      "text": "Make videos or animations"
+    },
+    {
+      "id": "r17",
+      "domain": "Artistic",
+      "text": "Write a story, script, or blog"
+    },
+    {
+      "id": "r19",
+      "domain": "Artistic",
+      "text": "Design a game level or character"
+    },
+    {
+      "id": "r16",
+      "domain": "Social",
+      "text": "Tutor a junior student"
+    },
+    {
+      "id": "r18",
+      "domain": "Social",
+      "text": "Organize a community help activity"
+    },
+    {
+      "id": "r20",
+      "domain": "Social",
+      "text": "Lead peer study sessions"
+    },
+    {
+      "id": "r22",
+      "domain": "Social",
+      "text": "Volunteer for a social cause"
+    },
+    {
+      "id": "r24",
+      "domain": "Social",
+      "text": "Guide visitors at an event"
+    },
+    {
+      "id": "r21",
+      "domain": "Enterprising",
+      "text": "Pitch a new idea or product"
+    },
+    {
+      "id": "r23",
+      "domain": "Enterprising",
+      "text": "Negotiate or persuade others"
+    },
+    {
+      "id": "r25",
+      "domain": "Enterprising",
+      "text": "Plan and run a school event"
+    },
+    {
+      "id": "r27",
+      "domain": "Enterprising",
+      "text": "Start a small online venture"
+    },
+    {
+      "id": "r29",
+      "domain": "Enterprising",
+      "text": "Lead a team to a target"
+    },
+    {
+      "id": "r26",
+      "domain": "Conventional",
+      "text": "Organize records or budgets"
+    },
+    {
+      "id": "r28",
+      "domain": "Conventional",
+      "text": "Follow set procedures accurately"
+    },
+    {
+      "id": "r30",
+      "domain": "Conventional",
+      "text": "Work with spreadsheets or forms"
+    },
+    {
+      "id": "r32",
+      "domain": "Conventional",
+      "text": "Maintain schedules and operations"
+    },
+    {
+      "id": "r34",
+      "domain": "Conventional",
+      "text": "Check details and compliance"
+    }
+  ],
+  "learning": [
+    {
+      "id": "l1",
+      "modality": "Visual",
+      "text": "Diagrams and flowcharts help me learn faster."
+    },
+    {
+      "id": "l2",
+      "modality": "Visual",
+      "text": "I sketch concepts as mind‑maps."
+    },
+    {
+      "id": "l3",
+      "modality": "Auditory",
+      "text": "Lectures or podcasts work well for me."
+    },
+    {
+      "id": "l4",
+      "modality": "Auditory",
+      "text": "Group discussions help me understand topics."
+    },
+    {
+      "id": "l5",
+      "modality": "Read/Write",
+      "text": "I prefer detailed notes and textbooks."
+    },
+    {
+      "id": "l6",
+      "modality": "Read/Write",
+      "text": "I rewrite notes to retain concepts."
+    },
+    {
+      "id": "l7",
+      "modality": "Kinesthetic",
+      "text": "Hands‑on practice helps me master topics."
+    },
+    {
+      "id": "l8",
+      "modality": "Kinesthetic",
+      "text": "I like labs, projects, or simulations."
+    },
+    {
+      "id": "l9",
+      "modality": "Multimodal",
+      "text": "I like mixing videos, notes, and practice."
+    },
+    {
+      "id": "l10",
+      "modality": "Multimodal",
+      "text": "I switch learning mode if one doesn’t work."
+    },
+    {
+      "id": "l11",
+      "modality": "Digital",
+      "text": "I learn well from interactive tools and apps."
+    },
+    {
+      "id": "l12",
+      "modality": "Digital",
+      "text": "Online courses/shorts help me revise quickly."
+    },
+    {
+      "id": "l13",
+      "modality": "Peer",
+      "text": "Explaining to others clarifies my understanding."
+    },
+    {
+      "id": "l14",
+      "modality": "Peer",
+      "text": "I prefer study groups to study alone."
+    },
+    {
+      "id": "l15",
+      "modality": "Self‑paced",
+      "text": "I like to learn at my own pace."
+    },
+    {
+      "id": "l16",
+      "modality": "Self‑paced",
+      "text": "I break topics into small sprints."
+    }
+  ],
+  "academic": [
+    {
+      "id": "a1",
+      "subject": "Mathematics",
+      "text": "Comfort with algebra, geometry, and word problems."
+    },
+    {
+      "id": "a2",
+      "subject": "Physics",
+      "text": "Understanding of mechanics, electricity, motion."
+    },
+    {
+      "id": "a3",
+      "subject": "Chemistry",
+      "text": "Concepts of reactions, bonding, stoichiometry."
+    },
+    {
+      "id": "a4",
+      "subject": "Biology",
+      "text": "Human body, ecology, genetics interest and comfort."
+    },
+    {
+      "id": "a5",
+      "subject": "Computer Science",
+      "text": "Logic, algorithms, data structures basics."
+    },
+    {
+      "id": "a6",
+      "subject": "English",
+      "text": "Reading comprehension and writing."
+    },
+    {
+      "id": "a7",
+      "subject": "Economics",
+      "text": "Micro, macro, markets, data interpretation."
+    },
+    {
+      "id": "a8",
+      "subject": "Accounting & Business",
+      "text": "Book‑keeping, costing, business basics."
+    },
+    {
+      "id": "a9",
+      "subject": "History",
+      "text": "Interest in events, timelines, sources."
+    },
+    {
+      "id": "a10",
+      "subject": "Geography",
+      "text": "Maps, environment, human geography."
+    },
+    {
+      "id": "a11",
+      "subject": "Art & Design",
+      "text": "Drawing, aesthetics, creative expression."
+    },
+    {
+      "id": "a12",
+      "subject": "Civics/Political Science",
+      "text": "Governance, policy, rights and duties."
+    }
+  ],
+  "skills": [
+    {
+      "id": "s1",
+      "skill": "Math & Quant",
+      "text": "Comfort with numbers and quantitative reasoning."
+    },
+    {
+      "id": "s2",
+      "skill": "Coding & Tech",
+      "text": "Programming or tech tools for problem solving."
+    },
+    {
+      "id": "s3",
+      "skill": "Biology & Health",
+      "text": "Interest/ability in human/biological sciences."
+    },
+    {
+      "id": "s4",
+      "skill": "Drawing & Design",
+      "text": "Sketching, visual composition, aesthetics."
+    },
+    {
+      "id": "s5",
+      "skill": "Public Speaking",
+      "text": "Confidence and clarity when speaking to groups."
+    },
+    {
+      "id": "s6",
+      "skill": "Writing & Language",
+      "text": "Clear, structured written communication."
+    },
+    {
+      "id": "s7",
+      "skill": "Commerce & Business",
+      "text": "Budgeting, finance, markets, business sense."
+    },
+    {
+      "id": "s8",
+      "skill": "Legal Reasoning",
+      "text": "Argumentation, case reasoning, rules."
+    },
+    {
+      "id": "s9",
+      "skill": "Caring & Service",
+      "text": "Helping, mentoring, caregiving mindset."
+    },
+    {
+      "id": "s10",
+      "skill": "Organizing & Admin",
+      "text": "Planning, scheduling, detail orientation."
+    },
+    {
+      "id": "s11",
+      "skill": "Research & Analysis",
+      "text": "Gathering information and analyzing deeply."
+    },
+    {
+      "id": "s12",
+      "skill": "Entrepreneurship",
+      "text": "Initiative, risk‑taking, value creation."
+    },
+    {
+      "id": "s13",
+      "skill": "Data & Analytics",
+      "text": "Spreadsheets, charts, data logic."
+    },
+    {
+      "id": "s14",
+      "skill": "Product & UX",
+      "text": "Understanding users and building solutions."
+    },
+    {
+      "id": "s15",
+      "skill": "Creativity",
+      "text": "Original ideas and novel combinations."
+    },
+    {
+      "id": "s16",
+      "skill": "Collaboration",
+      "text": "Working well in teams and roles."
+    },
+    {
+      "id": "s17",
+      "skill": "Leadership",
+      "text": "Inspiring and coordinating others."
+    },
+    {
+      "id": "s18",
+      "skill": "Time Management",
+      "text": "Prioritizing and meeting deadlines."
+    },
+    {
+      "id": "s19",
+      "skill": "Adaptability",
+      "text": "Shifting plans based on new info."
+    },
+    {
+      "id": "s20",
+      "skill": "Ethical Judgment",
+      "text": "Choosing fair and responsible actions."
+    },
+    {
+      "id": "s21",
+      "skill": "Communication",
+      "text": "Explaining ideas clearly to different audiences."
+    },
+    {
+      "id": "s22",
+      "skill": "Attention to Detail",
+      "text": "Spotting errors, ensuring quality."
+    },
+    {
+      "id": "s23",
+      "skill": "Spatial Reasoning",
+      "text": "Thinking in shapes, spaces, structures."
+    },
+    {
+      "id": "s24",
+      "skill": "Networking",
+      "text": "Building and maintaining helpful connections."
+    }
+  ],
+  "values": [
+    {
+      "id": "v1",
+      "value": "Achievement",
+      "text": "Achieving ambitious goals matters to me."
+    },
+    {
+      "id": "v2",
+      "value": "Autonomy",
+      "text": "I value independence in how I work."
+    },
+    {
+      "id": "v3",
+      "value": "Stability",
+      "text": "I prefer predictable routines and security."
+    },
+    {
+      "id": "v4",
+      "value": "Impact",
+      "text": "Making a positive difference matters to me."
+    },
+    {
+      "id": "v5",
+      "value": "Recognition",
+      "text": "I want recognition and leadership roles."
+    },
+    {
+      "id": "v6",
+      "value": "Collaboration",
+      "text": "I enjoy working closely with others."
+    },
+    {
+      "id": "v7",
+      "value": "Creativity",
+      "text": "I value originality and self‑expression."
+    },
+    {
+      "id": "v8",
+      "value": "Learning",
+      "text": "Continuous learning and growth are essential."
+    },
+    {
+      "id": "v9",
+      "value": "Financial Rewards",
+      "text": "Earning potential is important to me."
+    },
+    {
+      "id": "v10",
+      "value": "Work‑Life Balance",
+      "text": "I want time for family, hobbies, and rest."
+    },
+    {
+      "id": "v11",
+      "value": "Purpose",
+      "text": "I want my work to align with my values."
+    },
+    {
+      "id": "v12",
+      "value": "Adventure",
+      "text": "I like exploring new places and challenges."
+    }
+  ],
+  "ai_future": [
+    {
+      "id": "af1",
+      "facet": "AI Collaboration",
+      "text": "I can imagine using AI tools to speed up my work."
+    },
+    {
+      "id": "af2",
+      "facet": "AI Collaboration",
+      "text": "I would verify AI outputs before using them."
+    },
+    {
+      "id": "af3",
+      "facet": "AI Curiosity",
+      "text": "I like exploring how AI works behind the scenes."
+    },
+    {
+      "id": "af4",
+      "facet": "AI Curiosity",
+      "text": "I try new apps or features as they launch."
+    },
+    {
+      "id": "af5",
+      "facet": "Automation Mindset",
+      "text": "I look for parts of tasks that can be automated."
+    },
+    {
+      "id": "af6",
+      "facet": "Automation Mindset",
+      "text": "I document steps so others (or tools) can follow."
+    },
+    {
+      "id": "af7",
+      "facet": "Data Awareness",
+      "text": "I think about data quality and privacy."
+    },
+    {
+      "id": "af8",
+      "facet": "Data Awareness",
+      "text": "I can interpret simple charts and metrics."
+    },
+    {
+      "id": "af9",
+      "facet": "Ethical AI",
+      "text": "Fairness and bias in AI decisions matter to me."
+    },
+    {
+      "id": "af10",
+      "facet": "Ethical AI",
+      "text": "I would speak up if tech harms people."
+    },
+    {
+      "id": "af11",
+      "facet": "Future Readiness",
+      "text": "I’m comfortable learning new tools often."
+    },
+    {
+      "id": "af12",
+      "facet": "Future Readiness",
+      "text": "I can adapt when technology changes plans."
+    }
+  ],
+  "creativity": [
+    {
+      "id": "cr1",
+      "facet": "Idea Generation",
+      "text": "I quickly generate multiple ideas for a problem."
+    },
+    {
+      "id": "cr2",
+      "facet": "Idea Generation",
+      "text": "I connect unrelated concepts to spark solutions."
+    },
+    {
+      "id": "cr3",
+      "facet": "Digital Making",
+      "text": "I like making videos, designs, or prototypes."
+    },
+    {
+      "id": "cr4",
+      "facet": "Digital Making",
+      "text": "I learn creative tools (Figma, Canva, editors)."
+    },
+    {
+      "id": "cr5",
+      "facet": "Originality",
+      "text": "I prefer creating to copying existing work."
+    },
+    {
+      "id": "cr6",
+      "facet": "Aesthetic Sense",
+      "text": "I care about look, feel, and usability."
+    },
+    {
+      "id": "cr7",
+      "facet": "Storytelling",
+      "text": "I can present ideas with a clear narrative."
+    },
+    {
+      "id": "cr8",
+      "facet": "Iteration",
+      "text": "I improve drafts based on feedback."
+    },
+    {
+      "id": "cr9",
+      "facet": "Portfolio Mindset",
+      "text": "I maintain a portfolio or examples of my work."
+    },
+    {
+      "id": "cr10",
+      "facet": "Risk‑taking",
+      "text": "I try new approaches even if they might fail."
+    }
+  ],
+  "entrepreneurship": [
+    {
+      "id": "en1",
+      "facet": "Opportunity Spotting",
+      "text": "I notice everyday problems that could be solved."
+    },
+    {
+      "id": "en2",
+      "facet": "Opportunity Spotting",
+      "text": "I observe trends and needs in my community."
+    },
+    {
+      "id": "en3",
+      "facet": "Customer Understanding",
+      "text": "I talk to people to learn what they really need."
+    },
+    {
+      "id": "en4",
+      "facet": "Customer Understanding",
+      "text": "I can define a simple MVP to test an idea."
+    },
+    {
+      "id": "en5",
+      "facet": "Selling & Influence",
+      "text": "I can pitch an idea confidently to others."
+    },
+    {
+      "id": "en6",
+      "facet": "Selling & Influence",
+      "text": "I’m comfortable reaching out to new people."
+    },
+    {
+      "id": "en7",
+      "facet": "Execution",
+      "text": "I set timelines and track progress to completion."
+    },
+    {
+      "id": "en8",
+      "facet": "Execution",
+      "text": "I manage basic budgets or resources for a project."
+    },
+    {
+      "id": "en9",
+      "facet": "Resilience",
+      "text": "I bounce back when experiments fail."
+    },
+    {
+      "id": "en10",
+      "facet": "Ethics & Responsibility",
+      "text": "I care about building something useful and fair."
+    }
+  ],
+  "resilience": [
+    {
+      "id": "re1",
+      "facet": "Growth Mindset",
+      "text": "I believe abilities improve with effort and practice."
+    },
+    {
+      "id": "re2",
+      "facet": "Growth Mindset",
+      "text": "I view mistakes as a chance to learn."
+    },
+    {
+      "id": "re3",
+      "facet": "Stress Tools",
+      "text": "I have strategies to manage stress and pressure."
+    },
+    {
+      "id": "re4",
+      "facet": "Stress Tools",
+      "text": "I can focus even when things get noisy or busy."
+    },
+    {
+      "id": "re5",
+      "facet": "Adaptability",
+      "text": "I adjust quickly when plans change."
+    },
+    {
+      "id": "re6",
+      "facet": "Adaptability",
+      "text": "I can work with different kinds of people."
+    },
+    {
+      "id": "re7",
+      "facet": "Persistence",
+      "text": "I continue working even when tasks are hard."
+    },
+    {
+      "id": "re8",
+      "facet": "Persistence",
+      "text": "I finish what I start."
+    },
+    {
+      "id": "re9",
+      "facet": "Support Seeking",
+      "text": "I ask for help or feedback when needed."
+    },
+    {
+      "id": "re10",
+      "facet": "Optimism",
+      "text": "I expect to find a way through setbacks."
+    }
+  ],
+  "ethics_global": [
+    {
+      "id": "eg1",
+      "facet": "Digital Citizenship",
+      "text": "I cite sources and respect creators’ rights."
+    },
+    {
+      "id": "eg2",
+      "facet": "Digital Citizenship",
+      "text": "I consider privacy when sharing information."
+    },
+    {
+      "id": "eg3",
+      "facet": "Fairness & Inclusion",
+      "text": "I think about how choices affect different groups."
+    },
+    {
+      "id": "eg4",
+      "facet": "Fairness & Inclusion",
+      "text": "I include other voices in group decisions."
+    },
+    {
+      "id": "eg5",
+      "facet": "Sustainability",
+      "text": "I care about environmental impact of work/study."
+    },
+    {
+      "id": "eg6",
+      "facet": "Sustainability",
+      "text": "I look for efficient, low‑waste solutions."
+    },
+    {
+      "id": "eg7",
+      "facet": "Global Mindset",
+      "text": "I’m curious about other cultures and contexts."
+    },
+    {
+      "id": "eg8",
+      "facet": "Global Mindset",
+      "text": "I’m open to studying/working in new places."
+    },
+    {
+      "id": "eg9",
+      "facet": "Integrity",
+      "text": "I avoid shortcuts like plagiarism or cheating."
+    },
+    {
+      "id": "eg10",
+      "facet": "Integrity",
+      "text": "I stand up for what’s right, even if it’s hard."
+    }
+  ],
+  "extracurricular": [
+    {
+      "id": "ec1",
+      "area": "Sports & Fitness",
+      "text": "I participate in sports or physical activities."
+    },
+    {
+      "id": "ec2",
+      "area": "Arts & Culture",
+      "text": "I practice music, dance, theatre, or fine arts."
+    },
+    {
+      "id": "ec3",
+      "area": "STEM Clubs",
+      "text": "I join coding, robotics, or science clubs."
+    },
+    {
+      "id": "ec4",
+      "area": "Social Impact",
+      "text": "I volunteer for social or environmental causes."
+    },
+    {
+      "id": "ec5",
+      "area": "Leadership",
+      "text": "I take responsibility in school/college groups."
+    },
+    {
+      "id": "ec6",
+      "area": "Entrepreneurship",
+      "text": "I run small projects, stalls, or online shops."
+    },
+    {
+      "id": "ec7",
+      "area": "Media & Content",
+      "text": "I create blogs, videos, or podcasts."
+    },
+    {
+      "id": "ec8",
+      "area": "Languages & Literature",
+      "text": "I join debates, MUN, writing, or reading clubs."
+    }
+  ]
+}
