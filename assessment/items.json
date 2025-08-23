@@ -1,1 +1,90 @@
-
+{
+  "big5": [
+    {
+      "id": "b1",
+      "trait": "Extraversion",
+      "text": "I feel energized by social gatherings.",
+      "reverse": false
+    },
+    {
+      "id": "b2",
+      "trait": "Extraversion",
+      "text": "I prefer quiet time over group activities.",
+      "reverse": true
+    },
+    {
+      "id": "b3",
+      "trait": "Openness",
+      "text": "I enjoy exploring new ideas and experiences.",
+      "reverse": false
+    }
+  ],
+  "riasec": [
+    {
+      "id": "r1",
+      "domain": "Realistic",
+      "text": "Repair or assemble a gadget."
+    },
+    {
+      "id": "r2",
+      "domain": "Investigative",
+      "text": "Analyze data to find patterns."
+    },
+    {
+      "id": "r3",
+      "domain": "Artistic",
+      "text": "Create a sketch, drawing or painting."
+    }
+  ],
+  "learning": [
+    {
+      "id": "l1",
+      "modality": "Visual",
+      "text": "Diagrams/flowcharts help me learn faster."
+    },
+    {
+      "id": "l2",
+      "modality": "Auditory",
+      "text": "I learn well from lectures or podcasts."
+    },
+    {
+      "id": "l3",
+      "modality": "Kinesthetic",
+      "text": "I learn best when I can practice hands-on."
+    }
+  ],
+  "skills": [
+    {
+      "id": "s1",
+      "skill": "Math & Quant",
+      "text": "I am comfortable with mathematics."
+    },
+    {
+      "id": "s2",
+      "skill": "Coding & Tech",
+      "text": "I can handle programming or tech tools."
+    },
+    {
+      "id": "s3",
+      "skill": "Communication",
+      "text": "I can explain ideas clearly to others."
+    }
+  ],
+  "values": [
+    {
+      "id": "v1",
+      "value": "Achievement",
+      "text": "Achieving ambitious goals matters to me."
+    },
+    {
+      "id": "v2",
+      "value": "Autonomy",
+      "text": "I value independence in how I work."
+    },
+    {
+      "id": "v3",
+      "value": "Impact",
+      "text": "I want to make a difference in society."
+    }
+  ]
+}
