@@ -1,0 +1,379 @@
+{
+  "clusters": [
+    {
+      "name": "Engineering & Technology",
+      "description": "Mechanical, Electrical, CS, AI/ML, Data Engineering.",
+      "weights": {
+        "riasec": {
+          "Realistic": 0.25,
+          "Investigative": 0.25
+        },
+        "big5": {
+          "Conscientiousness": 0.15,
+          "Openness": 0.05
+        },
+        "academic": {
+          "Mathematics": 0.15,
+          "Physics": 0.1,
+          "Computer Science": 0.1
+        },
+        "skills": {
+          "Math & Quant": 0.1,
+          "Coding & Tech": 0.2,
+          "Data & Analytics": 0.1
+        },
+        "values": {
+          "Achievement": 0.05,
+          "Learning": 0.05
+        },
+        "ai_future": {
+          "AI Collaboration": 0.05,
+          "Automation Mindset": 0.05
+        },
+        "resilience": {
+          "Persistence": 0.05
+        }
+      },
+      "suggestions": [
+        "Build projects and publish on GitHub.",
+        "Practice Python/DSA and algorithms.",
+        "Join robotics/coding clubs."
+      ]
+    },
+    {
+      "name": "Medicine & Life Sciences",
+      "description": "MBBS, Dentistry, Pharma, Biotech, Research.",
+      "weights": {
+        "riasec": {
+          "Investigative": 0.25,
+          "Social": 0.1,
+          "Realistic": 0.1
+        },
+        "big5": {
+          "Conscientiousness": 0.2,
+          "Agreeableness": 0.1
+        },
+        "academic": {
+          "Biology": 0.25,
+          "Chemistry": 0.1
+        },
+        "skills": {
+          "Biology/Health": 0.25,
+          "Attention to Detail": 0.1,
+          "Communication": 0.05
+        },
+        "values": {
+          "Purpose": 0.1,
+          "Stability": 0.05
+        }
+      },
+      "suggestions": [
+        "Shadow clinicians or labs.",
+        "Participate in science fairs.",
+        "Learn bioinformatics basics."
+      ]
+    },
+    {
+      "name": "Design & Architecture",
+      "description": "UI/UX, Architecture, Animation, Product Design.",
+      "weights": {
+        "riasec": {
+          "Artistic": 0.3,
+          "Realistic": 0.1
+        },
+        "big5": {
+          "Openness": 0.25,
+          "Conscientiousness": 0.05
+        },
+        "academic": {
+          "Art & Design": 0.15,
+          "Mathematics": 0.05
+        },
+        "skills": {
+          "Creativity": 0.25,
+          "Product & UX": 0.15,
+          "Spatial Reasoning": 0.1
+        },
+        "creativity": {
+          "Aesthetic Sense": 0.1,
+          "Digital Making": 0.1
+        },
+        "values": {
+          "Creativity": 0.1,
+          "Autonomy": 0.05
+        }
+      },
+      "suggestions": [
+        "Build a portfolio with sketches/UI mockups.",
+        "Learn Figma/CAD; enter design contests.",
+        "Intern with studios."
+      ]
+    },
+    {
+      "name": "Commerce/Finance/Analytics",
+      "description": "B.Com, BBA, Banking, CA, Analytics.",
+      "weights": {
+        "riasec": {
+          "Enterprising": 0.2,
+          "Conventional": 0.2,
+          "Investigative": 0.1
+        },
+        "big5": {
+          "Conscientiousness": 0.2
+        },
+        "academic": {
+          "Economics": 0.15,
+          "Mathematics": 0.15,
+          "Accounting/Business": 0.1
+        },
+        "skills": {
+          "Commerce & Business": 0.3,
+          "Data & Analytics": 0.15,
+          "Communication": 0.05
+        },
+        "values": {
+          "Achievement": 0.1,
+          "Financial Rewards": 0.05
+        }
+      },
+      "suggestions": [
+        "Master spreadsheets and financial modeling.",
+        "Follow markets; internships with CA firms.",
+        "Take basic analytics certificates."
+      ]
+    },
+    {
+      "name": "Law/Policy/Governance",
+      "description": "Law, Public Policy, Civil Services.",
+      "weights": {
+        "riasec": {
+          "Enterprising": 0.15,
+          "Social": 0.1,
+          "Conventional": 0.15
+        },
+        "big5": {
+          "Conscientiousness": 0.15,
+          "Agreeableness": 0.1
+        },
+        "academic": {
+          "Civics/Pol Sci": 0.25,
+          "History": 0.1,
+          "English": 0.1
+        },
+        "skills": {
+          "Legal Reasoning": 0.25,
+          "Writing": 0.1,
+          "Public Speaking": 0.1
+        },
+        "values": {
+          "Integrity": 0.1,
+          "Impact": 0.1
+        }
+      },
+      "suggestions": [
+        "Join debating/MUN; read policy think-tanks.",
+        "Shadow lawyers; court visits.",
+        "Prepare for CLAT/UPSC foundations."
+      ]
+    },
+    {
+      "name": "Media/Communication",
+      "description": "Journalism, PR, Advertising, Content, Film.",
+      "weights": {
+        "riasec": {
+          "Artistic": 0.15,
+          "Enterprising": 0.15,
+          "Social": 0.1
+        },
+        "big5": {
+          "Openness": 0.2,
+          "Extraversion": 0.1
+        },
+        "academic": {
+          "English": 0.15,
+          "Art & Design": 0.1
+        },
+        "skills": {
+          "Writing": 0.2,
+          "Public Speaking": 0.15,
+          "Creativity": 0.1
+        },
+        "values": {
+          "Recognition": 0.05,
+          "Creativity": 0.1,
+          "Impact": 0.05
+        }
+      },
+      "suggestions": [
+        "Build a content portfolio (blog/video).",
+        "Intern with media houses.",
+        "Learn storytelling & editing tools."
+      ]
+    },
+    {
+      "name": "Hospitality/Tourism/Events",
+      "description": "Hotel Management, Travel, Event Production.",
+      "weights": {
+        "riasec": {
+          "Social": 0.2,
+          "Enterprising": 0.15,
+          "Conventional": 0.1
+        },
+        "big5": {
+          "Extraversion": 0.2,
+          "Agreeableness": 0.1
+        },
+        "skills": {
+          "Administration": 0.2,
+          "Communication": 0.1,
+          "Leadership": 0.05
+        },
+        "values": {
+          "Collaboration": 0.15,
+          "Adventure": 0.1
+        }
+      },
+      "suggestions": [
+        "Volunteer at events; manage logistics.",
+        "Learn customer experience tools.",
+        "Shadow hotel/venue operations."
+      ]
+    },
+    {
+      "name": "Social Sciences/Psych/Education",
+      "description": "Psychology, Sociology, Education, Counseling.",
+      "weights": {
+        "riasec": {
+          "Social": 0.25,
+          "Investigative": 0.1
+        },
+        "big5": {
+          "Agreeableness": 0.2,
+          "Openness": 0.1
+        },
+        "academic": {
+          "Biology": 0.05,
+          "English": 0.1,
+          "Civics/Pol Sci": 0.1
+        },
+        "skills": {
+          "Caring/Service": 0.25,
+          "Research & Analysis": 0.1,
+          "Communication": 0.1
+        },
+        "values": {
+          "Purpose": 0.15,
+          "Work‑Life Balance": 0.05
+        }
+      },
+      "suggestions": [
+        "Volunteer in mentoring/teaching programs.",
+        "Take basic psychology courses.",
+        "Shadow counselors/NGOs."
+      ]
+    },
+    {
+      "name": "IT/Data/Cyber/Product",
+      "description": "Software Dev, Data Science, Cybersecurity, PM.",
+      "weights": {
+        "riasec": {
+          "Investigative": 0.25,
+          "Conventional": 0.05,
+          "Enterprising": 0.1
+        },
+        "big5": {
+          "Conscientiousness": 0.15,
+          "Openness": 0.1
+        },
+        "academic": {
+          "Computer Science": 0.25,
+          "Mathematics": 0.15
+        },
+        "skills": {
+          "Coding & Tech": 0.3,
+          "Data & Analytics": 0.2,
+          "Product & UX": 0.1
+        },
+        "ai_future": {
+          "AI Collaboration": 0.1
+        },
+        "values": {
+          "Learning": 0.1
+        }
+      },
+      "suggestions": [
+        "Publish small apps/scripts; contribute to OSS.",
+        "Complete data/cyber labs online.",
+        "Take product case challenges."
+      ]
+    },
+    {
+      "name": "Entrepreneurship & Management",
+      "description": "Founders, Business Leaders, Operations.",
+      "weights": {
+        "riasec": {
+          "Enterprising": 0.3,
+          "Social": 0.1
+        },
+        "big5": {
+          "Extraversion": 0.1,
+          "Conscientiousness": 0.1,
+          "Openness": 0.05
+        },
+        "skills": {
+          "Entrepreneurship": 0.3,
+          "Leadership": 0.1,
+          "Collaboration": 0.1,
+          "Communication": 0.1
+        },
+        "entrepreneurship": {
+          "Opportunity Spotting": 0.1,
+          "Execution": 0.1,
+          "Team Building": 0.1
+        },
+        "values": {
+          "Autonomy": 0.1,
+          "Achievement": 0.1
+        }
+      },
+      "suggestions": [
+        "Start a micro‑venture; validate with customers.",
+        "Join e‑cells; pitch competitions.",
+        "Learn finance, ops, and growth basics."
+      ]
+    },
+    {
+      "name": "Sports/Defense/Security",
+      "description": "Athletics, Sports Science, Defense, Security Ops.",
+      "weights": {
+        "riasec": {
+          "Realistic": 0.25,
+          "Social": 0.1
+        },
+        "big5": {
+          "Emotional Stability": 0.15,
+          "Conscientiousness": 0.1
+        },
+        "skills": {
+          "Sports & Fitness": 0.2,
+          "Discipline": 0.0
+        },
+        "resilience": {
+          "Energy Management": 0.1,
+          "Self‑discipline": 0.1,
+          "Focus": 0.1
+        },
+        "values": {
+          "Adventure": 0.1,
+          "Purpose": 0.05
+        }
+      },
+      "suggestions": [
+        "Maintain fitness regimen; compete regularly.",
+        "Explore NCC/scouting programs.",
+        "Learn first-aid and safety protocols."
+      ]
+    }
+  ],
+  "notes": "Tune weights as per counselor expertise."
+}
