@@ -1,1 +1,1670 @@
-
+{
+  "meta": {
+    "version": "v3.4-ext",
+    "generated": "2025-08-25"
+  },
+  "big5": [
+    {
+      "id": "big5_openness_1",
+      "text": "I can teach someone basics of openness.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_2",
+      "text": "I often volunteer for tasks that involve openness.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_3",
+      "text": "I enjoy developing openness activities.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_4",
+      "text": "I set goals to grow my openness over time.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_5",
+      "text": "In class projects, I naturally handle the openness parts.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_6",
+      "text": "I feel unsure when dealing with openness.",
+      "trait": "openness",
+      "reverse": true
+    },
+    {
+      "id": "big5_openness_7",
+      "text": "My friends say I'm strong at openness.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_8",
+      "text": "I feel confident when I'm working on openness work.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_9",
+      "text": "I set goals to grow my openness over time.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_10",
+      "text": "I often volunteer for tasks that involve openness.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_11",
+      "text": "I can teach someone basics of openness.",
+      "trait": "openness"
+    },
+    {
+      "id": "big5_openness_12",
+      "text": "I usually avoid openness tasks.",
+      "trait": "openness",
+      "reverse": true
+    },
+    {
+      "id": "big5_conscientiousness_1",
+      "text": "I look for chances to apply conscientiousness in real life.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_2",
+      "text": "I keep practicing to improve my conscientiousness skills.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_3",
+      "text": "I enjoy developing conscientiousness activities.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_4",
+      "text": "I enjoy developing conscientiousness activities.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_5",
+      "text": "I often volunteer for tasks that involve conscientiousness.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_6",
+      "text": "I feel unsure when dealing with conscientiousness.",
+      "trait": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "big5_conscientiousness_7",
+      "text": "My friends say I'm strong at conscientiousness.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_8",
+      "text": "I read or watch content about conscientiousness in my free time.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_9",
+      "text": "I look for chances to apply conscientiousness in real life.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_10",
+      "text": "I enjoy developing conscientiousness activities.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_11",
+      "text": "I read or watch content about conscientiousness in my free time.",
+      "trait": "conscientiousness"
+    },
+    {
+      "id": "big5_conscientiousness_12",
+      "text": "I feel unsure when dealing with conscientiousness.",
+      "trait": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "big5_extraversion_1",
+      "text": "I set goals to grow my extraversion over time.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_2",
+      "text": "I can teach someone basics of extraversion.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_3",
+      "text": "I set goals to grow my extraversion over time.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_4",
+      "text": "I read or watch content about extraversion in my free time.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_5",
+      "text": "I keep practicing to improve my extraversion skills.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_6",
+      "text": "I feel unsure when dealing with extraversion.",
+      "trait": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "big5_extraversion_7",
+      "text": "I get energised by extraversion challenges.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_8",
+      "text": "I look for chances to apply extraversion in real life.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_9",
+      "text": "In class projects, I naturally handle the extraversion parts.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_10",
+      "text": "I enjoy developing extraversion activities.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_11",
+      "text": "I feel confident when I'm working on extraversion work.",
+      "trait": "extraversion"
+    },
+    {
+      "id": "big5_extraversion_12",
+      "text": "I struggle to stay engaged with extraversion work.",
+      "trait": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "big5_agreeableness_1",
+      "text": "I would like a career that uses agreeableness a lot.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_2",
+      "text": "In class projects, I naturally handle the agreeableness parts.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_3",
+      "text": "I feel confident when I'm working on agreeableness work.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_4",
+      "text": "My friends say I'm strong at agreeableness.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_5",
+      "text": "I would like a career that uses agreeableness a lot.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_6",
+      "text": "I usually avoid agreeableness tasks.",
+      "trait": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "big5_agreeableness_7",
+      "text": "I often volunteer for tasks that involve agreeableness.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_8",
+      "text": "I keep practicing to improve my agreeableness skills.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_9",
+      "text": "I often volunteer for tasks that involve agreeableness.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_10",
+      "text": "I would like a career that uses agreeableness a lot.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_11",
+      "text": "I would like a career that uses agreeableness a lot.",
+      "trait": "agreeableness"
+    },
+    {
+      "id": "big5_agreeableness_12",
+      "text": "I would not choose a career involving agreeableness.",
+      "trait": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "big5_neuroticism_1",
+      "text": "I enjoy developing neuroticism activities.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_2",
+      "text": "I set goals to grow my neuroticism over time.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_3",
+      "text": "I get energised by neuroticism challenges.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_4",
+      "text": "I read or watch content about neuroticism in my free time.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_5",
+      "text": "I often volunteer for tasks that involve neuroticism.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_6",
+      "text": "I struggle to stay engaged with neuroticism work.",
+      "trait": "neuroticism",
+      "reverse": true
+    },
+    {
+      "id": "big5_neuroticism_7",
+      "text": "I often volunteer for tasks that involve neuroticism.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_8",
+      "text": "I read or watch content about neuroticism in my free time.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_9",
+      "text": "In class projects, I naturally handle the neuroticism parts.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_10",
+      "text": "I can teach someone basics of neuroticism.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_11",
+      "text": "I look for chances to apply neuroticism in real life.",
+      "trait": "neuroticism"
+    },
+    {
+      "id": "big5_neuroticism_12",
+      "text": "I would not choose a career involving neuroticism.",
+      "trait": "neuroticism",
+      "reverse": true
+    }
+  ],
+  "riasec": [
+    {
+      "id": "riasec_realistic_1",
+      "text": "I look for chances to apply realistic in real life.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_2",
+      "text": "My friends say I'm strong at realistic.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_3",
+      "text": "I set goals to grow my realistic over time.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_4",
+      "text": "I often volunteer for tasks that involve realistic.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_5",
+      "text": "I enjoy practising realistic activities.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_6",
+      "text": "I can teach someone basics of realistic.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_7",
+      "text": "My friends say I'm strong at realistic.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_realistic_8",
+      "text": "In class projects, I naturally handle the realistic parts.",
+      "domain": "realistic"
+    },
+    {
+      "id": "riasec_investigative_1",
+      "text": "I often volunteer for tasks that involve investigative.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_2",
+      "text": "My friends say I'm strong at investigative.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_3",
+      "text": "I often volunteer for tasks that involve investigative.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_4",
+      "text": "I keep practicing to improve my investigative skills.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_5",
+      "text": "In class projects, I naturally handle the investigative parts.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_6",
+      "text": "I get energised by investigative challenges.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_7",
+      "text": "I can teach someone basics of investigative.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_investigative_8",
+      "text": "I would like a career that uses investigative a lot.",
+      "domain": "investigative"
+    },
+    {
+      "id": "riasec_artistic_1",
+      "text": "I feel confident when I'm working on artistic work.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_2",
+      "text": "I would like a career that uses artistic a lot.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_3",
+      "text": "I would like a career that uses artistic a lot.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_4",
+      "text": "My friends say I'm strong at artistic.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_5",
+      "text": "I can teach someone basics of artistic.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_6",
+      "text": "In class projects, I naturally handle the artistic parts.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_7",
+      "text": "I set goals to grow my artistic over time.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_artistic_8",
+      "text": "I can teach someone basics of artistic.",
+      "domain": "artistic"
+    },
+    {
+      "id": "riasec_social_1",
+      "text": "I can teach someone basics of social.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_2",
+      "text": "I often volunteer for tasks that involve social.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_3",
+      "text": "I look for chances to apply social in real life.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_4",
+      "text": "I can teach someone basics of social.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_5",
+      "text": "I feel confident when I'm working on social work.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_6",
+      "text": "I read or watch content about social in my free time.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_7",
+      "text": "I set goals to grow my social over time.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_social_8",
+      "text": "My friends say I'm strong at social.",
+      "domain": "social"
+    },
+    {
+      "id": "riasec_enterprising_1",
+      "text": "I feel confident when I'm working on enterprising work.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_2",
+      "text": "I get energised by enterprising challenges.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_3",
+      "text": "I keep practicing to improve my enterprising skills.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_4",
+      "text": "In class projects, I naturally handle the enterprising parts.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_5",
+      "text": "I can teach someone basics of enterprising.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_6",
+      "text": "I set goals to grow my enterprising over time.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_7",
+      "text": "I read or watch content about enterprising in my free time.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_enterprising_8",
+      "text": "My friends say I'm strong at enterprising.",
+      "domain": "enterprising"
+    },
+    {
+      "id": "riasec_conventional_1",
+      "text": "I can teach someone basics of conventional.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_2",
+      "text": "I would like a career that uses conventional a lot.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_3",
+      "text": "I enjoy practising conventional activities.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_4",
+      "text": "My friends say I'm strong at conventional.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_5",
+      "text": "I enjoy practising conventional activities.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_6",
+      "text": "I would like a career that uses conventional a lot.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_7",
+      "text": "I keep practicing to improve my conventional skills.",
+      "domain": "conventional"
+    },
+    {
+      "id": "riasec_conventional_8",
+      "text": "In class projects, I naturally handle the conventional parts.",
+      "domain": "conventional"
+    }
+  ],
+  "learning": [
+    {
+      "id": "learning_visual_1",
+      "text": "I often volunteer for tasks that involve visual.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_visual_2",
+      "text": "My friends say I'm strong at visual.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_visual_3",
+      "text": "I look for chances to apply visual in real life.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_visual_4",
+      "text": "I set goals to grow my visual over time.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_visual_5",
+      "text": "I would like a career that uses visual a lot.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_visual_6",
+      "text": "My friends say I'm strong at visual.",
+      "modality": "visual"
+    },
+    {
+      "id": "learning_auditory_1",
+      "text": "I can teach someone basics of auditory.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_auditory_2",
+      "text": "I get energised by auditory challenges.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_auditory_3",
+      "text": "I keep practicing to improve my auditory skills.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_auditory_4",
+      "text": "I can teach someone basics of auditory.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_auditory_5",
+      "text": "I get energised by auditory challenges.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_auditory_6",
+      "text": "I feel confident when I'm working on auditory work.",
+      "modality": "auditory"
+    },
+    {
+      "id": "learning_read_write_1",
+      "text": "In class projects, I naturally handle the read write parts.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_read_write_2",
+      "text": "I feel confident when I'm working on read write work.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_read_write_3",
+      "text": "My friends say I'm strong at read write.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_read_write_4",
+      "text": "I set goals to grow my read write over time.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_read_write_5",
+      "text": "I read or watch content about read write in my free time.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_read_write_6",
+      "text": "I read or watch content about read write in my free time.",
+      "modality": "read_write"
+    },
+    {
+      "id": "learning_kinesthetic_1",
+      "text": "In class projects, I naturally handle the kinesthetic parts.",
+      "modality": "kinesthetic"
+    },
+    {
+      "id": "learning_kinesthetic_2",
+      "text": "I set goals to grow my kinesthetic over time.",
+      "modality": "kinesthetic"
+    },
+    {
+      "id": "learning_kinesthetic_3",
+      "text": "I look for chances to apply kinesthetic in real life.",
+      "modality": "kinesthetic"
+    },
+    {
+      "id": "learning_kinesthetic_4",
+      "text": "I keep practicing to improve my kinesthetic skills.",
+      "modality": "kinesthetic"
+    },
+    {
+      "id": "learning_kinesthetic_5",
+      "text": "I look for chances to apply kinesthetic in real life.",
+      "modality": "kinesthetic"
+    },
+    {
+      "id": "learning_kinesthetic_6",
+      "text": "I keep practicing to improve my kinesthetic skills.",
+      "modality": "kinesthetic"
+    }
+  ],
+  "academic": [
+    {
+      "id": "academic_maths_1",
+      "text": "I would like a career that uses maths a lot.",
+      "subject": "maths"
+    },
+    {
+      "id": "academic_maths_2",
+      "text": "My friends say I'm strong at maths.",
+      "subject": "maths"
+    },
+    {
+      "id": "academic_maths_3",
+      "text": "I feel confident when I'm working on maths work.",
+      "subject": "maths"
+    },
+    {
+      "id": "academic_maths_4",
+      "text": "I read or watch content about maths in my free time.",
+      "subject": "maths"
+    },
+    {
+      "id": "academic_science_1",
+      "text": "I get energised by science challenges.",
+      "subject": "science"
+    },
+    {
+      "id": "academic_science_2",
+      "text": "I often volunteer for tasks that involve science.",
+      "subject": "science"
+    },
+    {
+      "id": "academic_science_3",
+      "text": "I enjoy working on science activities.",
+      "subject": "science"
+    },
+    {
+      "id": "academic_science_4",
+      "text": "I often volunteer for tasks that involve science.",
+      "subject": "science"
+    },
+    {
+      "id": "academic_computing_1",
+      "text": "I feel confident when I'm working on computing work.",
+      "subject": "computing"
+    },
+    {
+      "id": "academic_computing_2",
+      "text": "I can teach someone basics of computing.",
+      "subject": "computing"
+    },
+    {
+      "id": "academic_computing_3",
+      "text": "I feel confident when I'm working on computing work.",
+      "subject": "computing"
+    },
+    {
+      "id": "academic_computing_4",
+      "text": "I can teach someone basics of computing.",
+      "subject": "computing"
+    },
+    {
+      "id": "academic_commerce_1",
+      "text": "I keep practicing to improve my commerce skills.",
+      "subject": "commerce"
+    },
+    {
+      "id": "academic_commerce_2",
+      "text": "I look for chances to apply commerce in real life.",
+      "subject": "commerce"
+    },
+    {
+      "id": "academic_commerce_3",
+      "text": "I often volunteer for tasks that involve commerce.",
+      "subject": "commerce"
+    },
+    {
+      "id": "academic_commerce_4",
+      "text": "I keep practicing to improve my commerce skills.",
+      "subject": "commerce"
+    },
+    {
+      "id": "academic_humanities_1",
+      "text": "I keep practicing to improve my humanities skills.",
+      "subject": "humanities"
+    },
+    {
+      "id": "academic_humanities_2",
+      "text": "I look for chances to apply humanities in real life.",
+      "subject": "humanities"
+    },
+    {
+      "id": "academic_humanities_3",
+      "text": "I get energised by humanities challenges.",
+      "subject": "humanities"
+    },
+    {
+      "id": "academic_humanities_4",
+      "text": "I read or watch content about humanities in my free time.",
+      "subject": "humanities"
+    },
+    {
+      "id": "academic_languages_1",
+      "text": "In class projects, I naturally handle the languages parts.",
+      "subject": "languages"
+    },
+    {
+      "id": "academic_languages_2",
+      "text": "I read or watch content about languages in my free time.",
+      "subject": "languages"
+    },
+    {
+      "id": "academic_languages_3",
+      "text": "I enjoy working on languages activities.",
+      "subject": "languages"
+    },
+    {
+      "id": "academic_languages_4",
+      "text": "I can teach someone basics of languages.",
+      "subject": "languages"
+    },
+    {
+      "id": "academic_arts_design_1",
+      "text": "I set goals to grow my arts design over time.",
+      "subject": "arts_design"
+    },
+    {
+      "id": "academic_arts_design_2",
+      "text": "I often volunteer for tasks that involve arts design.",
+      "subject": "arts_design"
+    },
+    {
+      "id": "academic_arts_design_3",
+      "text": "I can teach someone basics of arts design.",
+      "subject": "arts_design"
+    },
+    {
+      "id": "academic_arts_design_4",
+      "text": "I read or watch content about arts design in my free time.",
+      "subject": "arts_design"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skills_communication_1",
+      "text": "In class projects, I naturally handle the communication parts.",
+      "skill": "communication"
+    },
+    {
+      "id": "skills_communication_2",
+      "text": "I can teach someone basics of communication.",
+      "skill": "communication"
+    },
+    {
+      "id": "skills_communication_3",
+      "text": "I would like a career that uses communication a lot.",
+      "skill": "communication"
+    },
+    {
+      "id": "skills_communication_4",
+      "text": "I often volunteer for tasks that involve communication.",
+      "skill": "communication"
+    },
+    {
+      "id": "skills_communication_5",
+      "text": "In class projects, I naturally handle the communication parts.",
+      "skill": "communication"
+    },
+    {
+      "id": "skills_problem_solving_1",
+      "text": "I keep practicing to improve my problem solving skills.",
+      "skill": "problem_solving"
+    },
+    {
+      "id": "skills_problem_solving_2",
+      "text": "I feel confident when I'm working on problem solving work.",
+      "skill": "problem_solving"
+    },
+    {
+      "id": "skills_problem_solving_3",
+      "text": "I get energised by problem solving challenges.",
+      "skill": "problem_solving"
+    },
+    {
+      "id": "skills_problem_solving_4",
+      "text": "I enjoy growing problem solving activities.",
+      "skill": "problem_solving"
+    },
+    {
+      "id": "skills_problem_solving_5",
+      "text": "I set goals to grow my problem solving over time.",
+      "skill": "problem_solving"
+    },
+    {
+      "id": "skills_creativity_1",
+      "text": "I set goals to grow my creativity over time.",
+      "skill": "creativity"
+    },
+    {
+      "id": "skills_creativity_2",
+      "text": "In class projects, I naturally handle the creativity parts.",
+      "skill": "creativity"
+    },
+    {
+      "id": "skills_creativity_3",
+      "text": "I read or watch content about creativity in my free time.",
+      "skill": "creativity"
+    },
+    {
+      "id": "skills_creativity_4",
+      "text": "I feel confident when I'm working on creativity work.",
+      "skill": "creativity"
+    },
+    {
+      "id": "skills_creativity_5",
+      "text": "I read or watch content about creativity in my free time.",
+      "skill": "creativity"
+    },
+    {
+      "id": "skills_leadership_1",
+      "text": "I often volunteer for tasks that involve leadership.",
+      "skill": "leadership"
+    },
+    {
+      "id": "skills_leadership_2",
+      "text": "I can teach someone basics of leadership.",
+      "skill": "leadership"
+    },
+    {
+      "id": "skills_leadership_3",
+      "text": "In class projects, I naturally handle the leadership parts.",
+      "skill": "leadership"
+    },
+    {
+      "id": "skills_leadership_4",
+      "text": "I can teach someone basics of leadership.",
+      "skill": "leadership"
+    },
+    {
+      "id": "skills_leadership_5",
+      "text": "I read or watch content about leadership in my free time.",
+      "skill": "leadership"
+    },
+    {
+      "id": "skills_collaboration_1",
+      "text": "I look for chances to apply collaboration in real life.",
+      "skill": "collaboration"
+    },
+    {
+      "id": "skills_collaboration_2",
+      "text": "My friends say I'm strong at collaboration.",
+      "skill": "collaboration"
+    },
+    {
+      "id": "skills_collaboration_3",
+      "text": "I feel confident when I'm working on collaboration work.",
+      "skill": "collaboration"
+    },
+    {
+      "id": "skills_collaboration_4",
+      "text": "I would like a career that uses collaboration a lot.",
+      "skill": "collaboration"
+    },
+    {
+      "id": "skills_collaboration_5",
+      "text": "I feel confident when I'm working on collaboration work.",
+      "skill": "collaboration"
+    },
+    {
+      "id": "skills_adaptability_1",
+      "text": "I read or watch content about adaptability in my free time.",
+      "skill": "adaptability"
+    },
+    {
+      "id": "skills_adaptability_2",
+      "text": "I read or watch content about adaptability in my free time.",
+      "skill": "adaptability"
+    },
+    {
+      "id": "skills_adaptability_3",
+      "text": "I enjoy growing adaptability activities.",
+      "skill": "adaptability"
+    },
+    {
+      "id": "skills_adaptability_4",
+      "text": "I look for chances to apply adaptability in real life.",
+      "skill": "adaptability"
+    },
+    {
+      "id": "skills_adaptability_5",
+      "text": "I would like a career that uses adaptability a lot.",
+      "skill": "adaptability"
+    },
+    {
+      "id": "skills_digital_literacy_1",
+      "text": "I get energised by digital literacy challenges.",
+      "skill": "digital_literacy"
+    },
+    {
+      "id": "skills_digital_literacy_2",
+      "text": "I enjoy growing digital literacy activities.",
+      "skill": "digital_literacy"
+    },
+    {
+      "id": "skills_digital_literacy_3",
+      "text": "I often volunteer for tasks that involve digital literacy.",
+      "skill": "digital_literacy"
+    },
+    {
+      "id": "skills_digital_literacy_4",
+      "text": "I would like a career that uses digital literacy a lot.",
+      "skill": "digital_literacy"
+    },
+    {
+      "id": "skills_digital_literacy_5",
+      "text": "In class projects, I naturally handle the digital literacy parts.",
+      "skill": "digital_literacy"
+    }
+  ],
+  "values": [
+    {
+      "id": "values_helping_others_1",
+      "text": "My friends say I'm strong at helping others.",
+      "value": "helping_others"
+    },
+    {
+      "id": "values_helping_others_2",
+      "text": "I enjoy focusing on helping others activities.",
+      "value": "helping_others"
+    },
+    {
+      "id": "values_helping_others_3",
+      "text": "My friends say I'm strong at helping others.",
+      "value": "helping_others"
+    },
+    {
+      "id": "values_helping_others_4",
+      "text": "I look for chances to apply helping others in real life.",
+      "value": "helping_others"
+    },
+    {
+      "id": "values_helping_others_5",
+      "text": "I often volunteer for tasks that involve helping others.",
+      "value": "helping_others"
+    },
+    {
+      "id": "values_achievement_1",
+      "text": "I often volunteer for tasks that involve achievement.",
+      "value": "achievement"
+    },
+    {
+      "id": "values_achievement_2",
+      "text": "I set goals to grow my achievement over time.",
+      "value": "achievement"
+    },
+    {
+      "id": "values_achievement_3",
+      "text": "I get energised by achievement challenges.",
+      "value": "achievement"
+    },
+    {
+      "id": "values_achievement_4",
+      "text": "I often volunteer for tasks that involve achievement.",
+      "value": "achievement"
+    },
+    {
+      "id": "values_achievement_5",
+      "text": "I read or watch content about achievement in my free time.",
+      "value": "achievement"
+    },
+    {
+      "id": "values_autonomy_1",
+      "text": "I feel confident when I'm working on autonomy work.",
+      "value": "autonomy"
+    },
+    {
+      "id": "values_autonomy_2",
+      "text": "I feel confident when I'm working on autonomy work.",
+      "value": "autonomy"
+    },
+    {
+      "id": "values_autonomy_3",
+      "text": "I can teach someone basics of autonomy.",
+      "value": "autonomy"
+    },
+    {
+      "id": "values_autonomy_4",
+      "text": "I get energised by autonomy challenges.",
+      "value": "autonomy"
+    },
+    {
+      "id": "values_autonomy_5",
+      "text": "I read or watch content about autonomy in my free time.",
+      "value": "autonomy"
+    },
+    {
+      "id": "values_stability_1",
+      "text": "I feel confident when I'm working on stability work.",
+      "value": "stability"
+    },
+    {
+      "id": "values_stability_2",
+      "text": "In class projects, I naturally handle the stability parts.",
+      "value": "stability"
+    },
+    {
+      "id": "values_stability_3",
+      "text": "I read or watch content about stability in my free time.",
+      "value": "stability"
+    },
+    {
+      "id": "values_stability_4",
+      "text": "I look for chances to apply stability in real life.",
+      "value": "stability"
+    },
+    {
+      "id": "values_stability_5",
+      "text": "I keep practicing to improve my stability skills.",
+      "value": "stability"
+    },
+    {
+      "id": "values_innovation_1",
+      "text": "My friends say I'm strong at innovation.",
+      "value": "innovation"
+    },
+    {
+      "id": "values_innovation_2",
+      "text": "I read or watch content about innovation in my free time.",
+      "value": "innovation"
+    },
+    {
+      "id": "values_innovation_3",
+      "text": "I set goals to grow my innovation over time.",
+      "value": "innovation"
+    },
+    {
+      "id": "values_innovation_4",
+      "text": "I set goals to grow my innovation over time.",
+      "value": "innovation"
+    },
+    {
+      "id": "values_innovation_5",
+      "text": "My friends say I'm strong at innovation.",
+      "value": "innovation"
+    },
+    {
+      "id": "values_financial_reward_1",
+      "text": "I set goals to grow my financial reward over time.",
+      "value": "financial_reward"
+    },
+    {
+      "id": "values_financial_reward_2",
+      "text": "In class projects, I naturally handle the financial reward parts.",
+      "value": "financial_reward"
+    },
+    {
+      "id": "values_financial_reward_3",
+      "text": "I keep practicing to improve my financial reward skills.",
+      "value": "financial_reward"
+    },
+    {
+      "id": "values_financial_reward_4",
+      "text": "I can teach someone basics of financial reward.",
+      "value": "financial_reward"
+    },
+    {
+      "id": "values_financial_reward_5",
+      "text": "I can teach someone basics of financial reward.",
+      "value": "financial_reward"
+    },
+    {
+      "id": "values_impact_1",
+      "text": "I would like a career that uses impact a lot.",
+      "value": "impact"
+    },
+    {
+      "id": "values_impact_2",
+      "text": "I get energised by impact challenges.",
+      "value": "impact"
+    },
+    {
+      "id": "values_impact_3",
+      "text": "I read or watch content about impact in my free time.",
+      "value": "impact"
+    },
+    {
+      "id": "values_impact_4",
+      "text": "I get energised by impact challenges.",
+      "value": "impact"
+    },
+    {
+      "id": "values_impact_5",
+      "text": "I often volunteer for tasks that involve impact.",
+      "value": "impact"
+    }
+  ],
+  "extracurricular": [
+    {
+      "id": "extracurricular_sports_1",
+      "text": "My friends say I'm strong at sports.",
+      "facet": "sports"
+    },
+    {
+      "id": "extracurricular_sports_2",
+      "text": "My friends say I'm strong at sports.",
+      "facet": "sports"
+    },
+    {
+      "id": "extracurricular_music_1",
+      "text": "I often volunteer for tasks that involve music.",
+      "facet": "music"
+    },
+    {
+      "id": "extracurricular_music_2",
+      "text": "I would like a career that uses music a lot.",
+      "facet": "music"
+    },
+    {
+      "id": "extracurricular_arts_1",
+      "text": "I enjoy exploring arts activities.",
+      "facet": "arts"
+    },
+    {
+      "id": "extracurricular_arts_2",
+      "text": "I look for chances to apply arts in real life.",
+      "facet": "arts"
+    },
+    {
+      "id": "extracurricular_debating_1",
+      "text": "I read or watch content about debating in my free time.",
+      "facet": "debating"
+    },
+    {
+      "id": "extracurricular_debating_2",
+      "text": "My friends say I'm strong at debating.",
+      "facet": "debating"
+    },
+    {
+      "id": "extracurricular_coding_1",
+      "text": "I look for chances to apply coding in real life.",
+      "facet": "coding"
+    },
+    {
+      "id": "extracurricular_coding_2",
+      "text": "My friends say I'm strong at coding.",
+      "facet": "coding"
+    },
+    {
+      "id": "extracurricular_community_service_1",
+      "text": "I enjoy exploring community service activities.",
+      "facet": "community_service"
+    },
+    {
+      "id": "extracurricular_community_service_2",
+      "text": "I often volunteer for tasks that involve community service.",
+      "facet": "community_service"
+    }
+  ],
+  "ai_future": [
+    {
+      "id": "ai_future_tool_fluency_1",
+      "text": "I set goals to grow my tool fluency over time.",
+      "facet": "tool_fluency"
+    },
+    {
+      "id": "ai_future_tool_fluency_2",
+      "text": "I can teach someone basics of tool fluency.",
+      "facet": "tool_fluency"
+    },
+    {
+      "id": "ai_future_tool_fluency_3",
+      "text": "I enjoy developing tool fluency activities.",
+      "facet": "tool_fluency"
+    },
+    {
+      "id": "ai_future_tool_fluency_4",
+      "text": "My friends say I'm strong at tool fluency.",
+      "facet": "tool_fluency"
+    },
+    {
+      "id": "ai_future_automation_mindset_1",
+      "text": "I often volunteer for tasks that involve automation mindset.",
+      "facet": "automation_mindset"
+    },
+    {
+      "id": "ai_future_automation_mindset_2",
+      "text": "I enjoy developing automation mindset activities.",
+      "facet": "automation_mindset"
+    },
+    {
+      "id": "ai_future_automation_mindset_3",
+      "text": "I would like a career that uses automation mindset a lot.",
+      "facet": "automation_mindset"
+    },
+    {
+      "id": "ai_future_automation_mindset_4",
+      "text": "I often volunteer for tasks that involve automation mindset.",
+      "facet": "automation_mindset"
+    },
+    {
+      "id": "ai_future_data_literacy_1",
+      "text": "I read or watch content about data literacy in my free time.",
+      "facet": "data_literacy"
+    },
+    {
+      "id": "ai_future_data_literacy_2",
+      "text": "My friends say I'm strong at data literacy.",
+      "facet": "data_literacy"
+    },
+    {
+      "id": "ai_future_data_literacy_3",
+      "text": "In class projects, I naturally handle the data literacy parts.",
+      "facet": "data_literacy"
+    },
+    {
+      "id": "ai_future_data_literacy_4",
+      "text": "I can teach someone basics of data literacy.",
+      "facet": "data_literacy"
+    },
+    {
+      "id": "ai_future_prompting_1",
+      "text": "I get energised by prompting challenges.",
+      "facet": "prompting"
+    },
+    {
+      "id": "ai_future_prompting_2",
+      "text": "My friends say I'm strong at prompting.",
+      "facet": "prompting"
+    },
+    {
+      "id": "ai_future_prompting_3",
+      "text": "I read or watch content about prompting in my free time.",
+      "facet": "prompting"
+    },
+    {
+      "id": "ai_future_prompting_4",
+      "text": "I feel confident when I'm working on prompting work.",
+      "facet": "prompting"
+    },
+    {
+      "id": "ai_future_ethics_awareness_1",
+      "text": "I set goals to grow my ethics awareness over time.",
+      "facet": "ethics_awareness"
+    },
+    {
+      "id": "ai_future_ethics_awareness_2",
+      "text": "I look for chances to apply ethics awareness in real life.",
+      "facet": "ethics_awareness"
+    },
+    {
+      "id": "ai_future_ethics_awareness_3",
+      "text": "I look for chances to apply ethics awareness in real life.",
+      "facet": "ethics_awareness"
+    },
+    {
+      "id": "ai_future_ethics_awareness_4",
+      "text": "I get energised by ethics awareness challenges.",
+      "facet": "ethics_awareness"
+    }
+  ],
+  "creativity": [
+    {
+      "id": "creativity_idea_generation_1",
+      "text": "My friends say I'm strong at idea generation.",
+      "facet": "idea_generation"
+    },
+    {
+      "id": "creativity_idea_generation_2",
+      "text": "I get energised by idea generation challenges.",
+      "facet": "idea_generation"
+    },
+    {
+      "id": "creativity_idea_generation_3",
+      "text": "I keep practicing to improve my idea generation skills.",
+      "facet": "idea_generation"
+    },
+    {
+      "id": "creativity_idea_generation_4",
+      "text": "My friends say I'm strong at idea generation.",
+      "facet": "idea_generation"
+    },
+    {
+      "id": "creativity_design_taste_1",
+      "text": "I often volunteer for tasks that involve design taste.",
+      "facet": "design_taste"
+    },
+    {
+      "id": "creativity_design_taste_2",
+      "text": "I often volunteer for tasks that involve design taste.",
+      "facet": "design_taste"
+    },
+    {
+      "id": "creativity_design_taste_3",
+      "text": "I can teach someone basics of design taste.",
+      "facet": "design_taste"
+    },
+    {
+      "id": "creativity_design_taste_4",
+      "text": "I keep practicing to improve my design taste skills.",
+      "facet": "design_taste"
+    },
+    {
+      "id": "creativity_storytelling_1",
+      "text": "I would like a career that uses storytelling a lot.",
+      "facet": "storytelling"
+    },
+    {
+      "id": "creativity_storytelling_2",
+      "text": "I keep practicing to improve my storytelling skills.",
+      "facet": "storytelling"
+    },
+    {
+      "id": "creativity_storytelling_3",
+      "text": "I keep practicing to improve my storytelling skills.",
+      "facet": "storytelling"
+    },
+    {
+      "id": "creativity_storytelling_4",
+      "text": "I get energised by storytelling challenges.",
+      "facet": "storytelling"
+    },
+    {
+      "id": "creativity_experimentation_1",
+      "text": "I set goals to grow my experimentation over time.",
+      "facet": "experimentation"
+    },
+    {
+      "id": "creativity_experimentation_2",
+      "text": "I enjoy creating experimentation activities.",
+      "facet": "experimentation"
+    },
+    {
+      "id": "creativity_experimentation_3",
+      "text": "I can teach someone basics of experimentation.",
+      "facet": "experimentation"
+    },
+    {
+      "id": "creativity_experimentation_4",
+      "text": "I can teach someone basics of experimentation.",
+      "facet": "experimentation"
+    }
+  ],
+  "entrepreneurship": [
+    {
+      "id": "entrepreneurship_initiative_1",
+      "text": "I can teach someone basics of initiative.",
+      "facet": "initiative"
+    },
+    {
+      "id": "entrepreneurship_initiative_2",
+      "text": "I often volunteer for tasks that involve initiative.",
+      "facet": "initiative"
+    },
+    {
+      "id": "entrepreneurship_initiative_3",
+      "text": "I enjoy building initiative activities.",
+      "facet": "initiative"
+    },
+    {
+      "id": "entrepreneurship_initiative_4",
+      "text": "I keep practicing to improve my initiative skills.",
+      "facet": "initiative"
+    },
+    {
+      "id": "entrepreneurship_risk_tolerance_1",
+      "text": "I set goals to grow my risk tolerance over time.",
+      "facet": "risk_tolerance"
+    },
+    {
+      "id": "entrepreneurship_risk_tolerance_2",
+      "text": "I would like a career that uses risk tolerance a lot.",
+      "facet": "risk_tolerance"
+    },
+    {
+      "id": "entrepreneurship_risk_tolerance_3",
+      "text": "I often volunteer for tasks that involve risk tolerance.",
+      "facet": "risk_tolerance"
+    },
+    {
+      "id": "entrepreneurship_risk_tolerance_4",
+      "text": "My friends say I'm strong at risk tolerance.",
+      "facet": "risk_tolerance"
+    },
+    {
+      "id": "entrepreneurship_customer_focus_1",
+      "text": "My friends say I'm strong at customer focus.",
+      "facet": "customer_focus"
+    },
+    {
+      "id": "entrepreneurship_customer_focus_2",
+      "text": "My friends say I'm strong at customer focus.",
+      "facet": "customer_focus"
+    },
+    {
+      "id": "entrepreneurship_customer_focus_3",
+      "text": "I read or watch content about customer focus in my free time.",
+      "facet": "customer_focus"
+    },
+    {
+      "id": "entrepreneurship_customer_focus_4",
+      "text": "I get energised by customer focus challenges.",
+      "facet": "customer_focus"
+    },
+    {
+      "id": "entrepreneurship_resourcefulness_1",
+      "text": "I feel confident when I'm working on resourcefulness work.",
+      "facet": "resourcefulness"
+    },
+    {
+      "id": "entrepreneurship_resourcefulness_2",
+      "text": "I keep practicing to improve my resourcefulness skills.",
+      "facet": "resourcefulness"
+    },
+    {
+      "id": "entrepreneurship_resourcefulness_3",
+      "text": "I feel confident when I'm working on resourcefulness work.",
+      "facet": "resourcefulness"
+    },
+    {
+      "id": "entrepreneurship_resourcefulness_4",
+      "text": "In class projects, I naturally handle the resourcefulness parts.",
+      "facet": "resourcefulness"
+    }
+  ],
+  "resilience": [
+    {
+      "id": "resilience_grit_1",
+      "text": "I get energised by grit challenges.",
+      "facet": "grit"
+    },
+    {
+      "id": "resilience_grit_2",
+      "text": "My friends say I'm strong at grit.",
+      "facet": "grit"
+    },
+    {
+      "id": "resilience_grit_3",
+      "text": "I often volunteer for tasks that involve grit.",
+      "facet": "grit"
+    },
+    {
+      "id": "resilience_grit_4",
+      "text": "I get energised by grit challenges.",
+      "facet": "grit"
+    },
+    {
+      "id": "resilience_stress_tolerance_1",
+      "text": "I read or watch content about stress tolerance in my free time.",
+      "facet": "stress_tolerance"
+    },
+    {
+      "id": "resilience_stress_tolerance_2",
+      "text": "I often volunteer for tasks that involve stress tolerance.",
+      "facet": "stress_tolerance"
+    },
+    {
+      "id": "resilience_stress_tolerance_3",
+      "text": "I enjoy strengthening stress tolerance activities.",
+      "facet": "stress_tolerance"
+    },
+    {
+      "id": "resilience_stress_tolerance_4",
+      "text": "I can teach someone basics of stress tolerance.",
+      "facet": "stress_tolerance"
+    },
+    {
+      "id": "resilience_growth_mindset_1",
+      "text": "I read or watch content about growth mindset in my free time.",
+      "facet": "growth_mindset"
+    },
+    {
+      "id": "resilience_growth_mindset_2",
+      "text": "I enjoy strengthening growth mindset activities.",
+      "facet": "growth_mindset"
+    },
+    {
+      "id": "resilience_growth_mindset_3",
+      "text": "I often volunteer for tasks that involve growth mindset.",
+      "facet": "growth_mindset"
+    },
+    {
+      "id": "resilience_growth_mindset_4",
+      "text": "My friends say I'm strong at growth mindset.",
+      "facet": "growth_mindset"
+    },
+    {
+      "id": "resilience_self_regulation_1",
+      "text": "I feel confident when I'm working on self regulation work.",
+      "facet": "self_regulation"
+    },
+    {
+      "id": "resilience_self_regulation_2",
+      "text": "I keep practicing to improve my self regulation skills.",
+      "facet": "self_regulation"
+    },
+    {
+      "id": "resilience_self_regulation_3",
+      "text": "I get energised by self regulation challenges.",
+      "facet": "self_regulation"
+    },
+    {
+      "id": "resilience_self_regulation_4",
+      "text": "I get energised by self regulation challenges.",
+      "facet": "self_regulation"
+    }
+  ],
+  "ethics_global": [
+    {
+      "id": "ethics_global_integrity_1",
+      "text": "My friends say I'm strong at integrity.",
+      "facet": "integrity"
+    },
+    {
+      "id": "ethics_global_integrity_2",
+      "text": "I keep practicing to improve my integrity skills.",
+      "facet": "integrity"
+    },
+    {
+      "id": "ethics_global_integrity_3",
+      "text": "I enjoy understanding integrity activities.",
+      "facet": "integrity"
+    },
+    {
+      "id": "ethics_global_integrity_4",
+      "text": "I feel confident when I'm working on integrity work.",
+      "facet": "integrity"
+    },
+    {
+      "id": "ethics_global_empathy_1",
+      "text": "I keep practicing to improve my empathy skills.",
+      "facet": "empathy"
+    },
+    {
+      "id": "ethics_global_empathy_2",
+      "text": "I enjoy understanding empathy activities.",
+      "facet": "empathy"
+    },
+    {
+      "id": "ethics_global_empathy_3",
+      "text": "I keep practicing to improve my empathy skills.",
+      "facet": "empathy"
+    },
+    {
+      "id": "ethics_global_empathy_4",
+      "text": "In class projects, I naturally handle the empathy parts.",
+      "facet": "empathy"
+    },
+    {
+      "id": "ethics_global_civic_minded_1",
+      "text": "I get energised by civic minded challenges.",
+      "facet": "civic_minded"
+    },
+    {
+      "id": "ethics_global_civic_minded_2",
+      "text": "In class projects, I naturally handle the civic minded parts.",
+      "facet": "civic_minded"
+    },
+    {
+      "id": "ethics_global_civic_minded_3",
+      "text": "I keep practicing to improve my civic minded skills.",
+      "facet": "civic_minded"
+    },
+    {
+      "id": "ethics_global_civic_minded_4",
+      "text": "I set goals to grow my civic minded over time.",
+      "facet": "civic_minded"
+    },
+    {
+      "id": "ethics_global_global_awareness_1",
+      "text": "I set goals to grow my global awareness over time.",
+      "facet": "global_awareness"
+    },
+    {
+      "id": "ethics_global_global_awareness_2",
+      "text": "I read or watch content about global awareness in my free time.",
+      "facet": "global_awareness"
+    },
+    {
+      "id": "ethics_global_global_awareness_3",
+      "text": "I can teach someone basics of global awareness.",
+      "facet": "global_awareness"
+    },
+    {
+      "id": "ethics_global_global_awareness_4",
+      "text": "I set goals to grow my global awareness over time.",
+      "facet": "global_awareness"
+    }
+  ]
+}
