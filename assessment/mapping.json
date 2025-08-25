@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "version": "v3.4-ext2",
+    "generated": "2025-08-25"
+  },
+  "clusters": [
+    {
+      "name": "Software Engineering and AI",
+      "description": "Design and build software and intelligent systems.",
+      "weights": {
+        "riasec": {
+          "investigative": 1.0,
+          "realistic": 0.6
+        },
+        "academic": {
+          "computing": 1.0,
+          "maths": 0.8
+        },
+        "skills": {
+          "problem_solving": 1.0,
+          "digital_literacy": 0.9
+        },
+        "ai_future": {
+          "tool_fluency": 0.8,
+          "data_literacy": 0.8,
+          "automation_mindset": 0.6,
+          "prompting": 0.6
+        },
+        "big5": {
+          "openness": 0.5,
+          "conscientiousness": 0.5
+        }
+      },
+      "suggestions": [
+        "Publish projects on GitHub",
+        "Join hackathons",
+        "Build a small ML demo",
+        "Intern with a software team"
+      ]
+    },
+    {
+      "name": "Data Science and Analytics",
+      "description": "Discover insights from data for science, business, and society.",
+      "weights": {
+        "riasec": {
+          "investigative": 1.0,
+          "conventional": 0.4
+        },
+        "academic": {
+          "maths": 1.0,
+          "computing": 0.8,
+          "science": 0.4
+        },
+        "skills": {
+          "problem_solving": 0.9,
+          "communication": 0.5
+        },
+        "ai_future": {
+          "data_literacy": 1.0,
+          "tool_fluency": 0.6
+        }
+      },
+      "suggestions": [
+        "Compete in Kaggle",
+        "Learn Python and SQL",
+        "Study statistics and probability",
+        "Analyze an open dataset"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "description": "Protect systems and people from digital threats.",
+      "weights": {
+        "riasec": {
+          "investigative": 0.9,
+          "realistic": 0.6
+        },
+        "academic": {
+          "computing": 1.0,
+          "maths": 0.5
+        },
+        "skills": {
+          "problem_solving": 0.8,
+          "adaptability": 0.6
+        },
+        "values": {
+          "impact": 0.3
+        },
+        "ethics_global": {
+          "integrity": 0.8
+        }
+      },
+      "suggestions": [
+        "Try CTF challenges",
+        "Do network security labs",
+        "Study OWASP Top 10",
+        "Shadow a security analyst"
+      ]
+    },
+    {
+      "name": "Robotics and Mechatronics",
+      "description": "Build intelligent machines that sense and act.",
+      "weights": {
+        "riasec": {
+          "realistic": 1.0,
+          "investigative": 0.6
+        },
+        "academic": {
+          "computing": 0.8,
+          "maths": 0.7,
+          "science": 0.7
+        },
+        "skills": {
+          "problem_solving": 0.8,
+          "collaboration": 0.5
+        },
+        "ai_future": {
+          "automation_mindset": 0.9
+        }
+      },
+      "suggestions": [
+        "Join a robotics club",
+        "Arduino or Raspberry Pi projects",
+        "Compete in RoboCup",
+        "Attend mechatronics workshops"
+      ]
+    },
+    {
+      "name": "Bioengineering and Biotechnology",
+      "description": "Engineer biology to create health, food, and materials breakthroughs.",
+      "weights": {
+        "riasec": {
+          "investigative": 1.0
+        },
+        "academic": {
+          "science": 1.0,
+          "maths": 0.6
+        },
+        "skills": {
+          "problem_solving": 0.7,
+          "creativity": 0.5
+        },
+        "values": {
+          "impact": 0.7,
+          "helping_others": 0.6
+        }
+      },
+      "suggestions": [
+        "Wet lab internships",
+        "Biology olympiads",
+        "Read synthetic biology primers",
+        "Community biology labs"
+      ]
+    },
+    {
+      "name": "Medicine and Healthcare",
+      "description": "Diagnose, treat, and care for health and wellbeing.",
+      "weights": {
+        "riasec": {
+          "investigative": 0.9,
+          "social": 0.8
+        },
+        "academic": {
+          "science": 1.0
+        },
+        "skills": {
+          "communication": 0.8
+        },
+        "resilience": {
+          "grit": 0.6
+        },
+        "values": {
+          "helping_others": 1.0
+        }
+      },
+      "suggestions": [
+        "Shadow clinicians",
+        "Volunteer at hospitals or NGOs",
+        "Take a first aid course",
+        "Join biology research projects"
+      ]
+    },
+    {
+      "name": "Clinical Psychology and Counseling",
+      "description": "Understand behavior and support mental health.",
+      "weights": {
+        "riasec": {
+          "social": 1.0,
+          "investigative": 0.5
+        },
+        "academic": {
+          "humanities": 0.7,
+          "languages": 0.5
+        },
+        "skills": {
+          "communication": 0.9
+        },
+        "ethics_global": {
+          "empathy": 1.0
+        },
+        "big5": {
+          "agreeableness": 0.7
+        }
+      },
+      "suggestions": [
+        "Volunteer helplines",
+        "Take psychology courses",
+        "Join peer support groups",
+        "Community counseling exposure"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "description": "Design functional spaces and buildings.",
+      "weights": {
+        "riasec": {
+          "artistic": 0.8,
+          "realistic": 0.5
+        },
+        "academic": {
+          "arts_design": 1.0,
+          "maths": 0.5
+        },
+        "skills": {
+          "creativity": 0.9,
+          "problem_solving": 0.5
+        }
+      },
+      "suggestions": [
+        "Build a design portfolio",
+        "Sketch and 3D modeling practice",
+        "Intern at studios",
+        "Study famous buildings"
+      ]
+    },
+    {
+      "name": "Design and UI/UX",
+      "description": "Craft intuitive, beautiful digital experiences.",
+      "weights": {
+        "riasec": {
+          "artistic": 1.0,
+          "social": 0.3
+        },
+        "academic": {
+          "arts_design": 1.0
+        },
+        "skills": {
+          "creativity": 1.0,
+          "communication": 0.6,
+          "collaboration": 0.5
+        },
+        "creativity": {
+          "design_taste": 1.0,
+          "storytelling": 0.6
+        }
+      },
+      "suggestions": [
+        "Master Figma",
+        "Do user interviews",
+        "Publish case studies",
+        "Post to Behance or Dribbble"
+      ]
+    },
+    {
+      "name": "Business Management and Strategy",
+      "description": "Lead teams, plan strategy, and deliver outcomes.",
+      "weights": {
+        "riasec": {
+          "enterprising": 1.0,
+          "conventional": 0.5
+        },
+        "academic": {
+          "commerce": 1.0
+        },
+        "skills": {
+          "leadership": 1.0,
+          "collaboration": 0.8,
+          "communication": 0.8
+        },
+        "big5": {
+          "conscientiousness": 0.6
+        }
+      },
+      "suggestions": [
+        "Lead a club",
+        "Enter case competitions",
+        "Intern in operations",
+        "Practice analytical presentations"
+      ]
+    },
+    {
+      "name": "Finance and FinTech",
+      "description": "Analyze markets, manage risk, and build financial products.",
+      "weights": {
+        "riasec": {
+          "conventional": 1.0,
+          "enterprising": 0.6
+        },
+        "academic": {
+          "commerce": 1.0,
+          "maths": 0.7
+        },
+        "skills": {
+          "problem_solving": 0.7,
+          "adaptability": 0.5
+        },
+        "ai_future": {
+          "data_literacy": 0.6
+        }
+      },
+      "suggestions": [
+        "Run a mock portfolio",
+        "Study statistics and probability",
+        "Learn unit economics",
+        "Master spreadsheets"
+      ]
+    },
+    {
+      "name": "Public Policy and Law",
+      "description": "Shape policy and legal frameworks for society and business.",
+      "weights": {
+        "riasec": {
+          "social": 0.6,
+          "investigative": 0.5
+        },
+        "academic": {
+          "humanities": 1.0,
+          "languages": 0.7
+        },
+        "skills": {
+          "communication": 1.0
+        },
+        "values": {
+          "impact": 0.6
+        },
+        "ethics_global": {
+          "integrity": 0.8
+        }
+      },
+      "suggestions": [
+        "Debating and MUN",
+        "Policy internships",
+        "Write op-eds",
+        "Study constitution and economics"
+      ]
+    },
+    {
+      "name": "Education and Social Impact",
+      "description": "Teach, mentor, and design programs for community outcomes.",
+      "weights": {
+        "riasec": {
+          "social": 1.0
+        },
+        "skills": {
+          "communication": 0.9,
+          "collaboration": 0.7
+        },
+        "values": {
+          "helping_others": 1.0,
+          "impact": 0.8
+        }
+      },
+      "suggestions": [
+        "Teach juniors",
+        "Create tutorials",
+        "Volunteer with NGOs",
+        "Community projects"
+      ]
+    },
+    {
+      "name": "Journalism and Communications",
+      "description": "Investigate stories and explain them clearly.",
+      "weights": {
+        "riasec": {
+          "artistic": 0.4,
+          "social": 0.8
+        },
+        "academic": {
+          "languages": 1.0,
+          "humanities": 0.6
+        },
+        "skills": {
+          "communication": 1.0
+        },
+        "creativity": {
+          "storytelling": 0.8
+        }
+      },
+      "suggestions": [
+        "School magazine",
+        "Podcast or blog",
+        "Interview projects",
+        "Local reporting"
+      ]
+    },
+    {
+      "name": "Marketing and Growth",
+      "description": "Understand audiences and drive adoption.",
+      "weights": {
+        "riasec": {
+          "enterprising": 0.8,
+          "social": 0.7
+        },
+        "skills": {
+          "creativity": 0.8,
+          "communication": 0.9
+        },
+        "academic": {
+          "commerce": 0.6
+        }
+      },
+      "suggestions": [
+        "Run social campaigns",
+        "A/B tests",
+        "Content calendar",
+        "Study consumer psychology"
+      ]
+    },
+    {
+      "name": "Sports Science and Performance",
+      "description": "Science backed training and coaching.",
+      "weights": {
+        "riasec": {
+          "realistic": 0.9
+        },
+        "skills": {
+          "adaptability": 0.6
+        },
+        "resilience": {
+          "grit": 1.0
+        }
+      },
+      "suggestions": [
+        "Track performance metrics",
+        "Enter competitions",
+        "Learn sports analytics",
+        "Assistant coaching"
+      ]
+    },
+    {
+      "name": "Environmental Science and Climate Tech",
+      "description": "Study ecosystems and build climate solutions.",
+      "weights": {
+        "riasec": {
+          "investigative": 0.8,
+          "realistic": 0.5
+        },
+        "academic": {
+          "science": 1.0,
+          "maths": 0.5
+        },
+        "values": {
+          "impact": 1.0
+        },
+        "skills": {
+          "problem_solving": 0.7
+        }
+      },
+      "suggestions": [
+        "Climate projects",
+        "Field data collection",
+        "Energy calculators",
+        "Sustainability initiatives"
+      ]
+    },
+    {
+      "name": "Aerospace and Space Systems",
+      "description": "Aircraft, satellites, and space exploration.",
+      "weights": {
+        "riasec": {
+          "realistic": 0.8,
+          "investigative": 0.7
+        },
+        "academic": {
+          "maths": 0.9,
+          "science": 0.9,
+          "computing": 0.6
+        },
+        "skills": {
+          "problem_solving": 0.8
+        }
+      },
+      "suggestions": [
+        "Join aero clubs",
+        "Study orbital mechanics basics",
+        "CAD and simulation projects",
+        "Follow space missions"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "description": "Define, ship, and iterate digital products.",
+      "weights": {
+        "riasec": {
+          "enterprising": 0.7,
+          "social": 0.6,
+          "investigative": 0.4
+        },
+        "skills": {
+          "leadership": 0.7,
+          "communication": 0.8,
+          "problem_solving": 0.7,
+          "collaboration": 0.8
+        },
+        "creativity": {
+          "experimentation": 0.6
+        }
+      },
+      "suggestions": [
+        "Write PRDs",
+        "Shadow design and engineering",
+        "Ship small features",
+        "User research and analytics"
+      ]
+    },
+    {
+      "name": "Web3 and Blockchain",
+      "description": "Decentralized apps, smart contracts, and token economies.",
+      "weights": {
+        "riasec": {
+          "investigative": 0.7,
+          "enterprising": 0.5
+        },
+        "academic": {
+          "computing": 0.9,
+          "maths": 0.5
+        },
+        "skills": {
+          "problem_solving": 0.7
+        },
+        "values": {
+          "autonomy": 0.6
+        }
+      },
+      "suggestions": [
+        "Build a simple dApp",
+        "Learn Solidity",
+        "Basics of smart contract audits",
+        "Explore token design cases"
+      ]
+    },
+    {
+      "name": "Hospitality and Tourism",
+      "description": "Create delightful guest experiences.",
+      "weights": {
+        "riasec": {
+          "social": 0.8,
+          "enterprising": 0.6
+        },
+        "skills": {
+          "communication": 0.9,
+          "leadership": 0.5,
+          "adaptability": 0.6
+        },
+        "values": {
+          "achievement": 0.4
+        }
+      },
+      "suggestions": [
+        "Volunteer at events",
+        "Shadow hotel operations",
+        "Customer experience projects",
+        "Design a local tour"
+      ]
+    },
+    {
+      "name": "AgriTech and Food Systems",
+      "description": "Modern agriculture, supply chains, and food innovation.",
+      "weights": {
+        "riasec": {
+          "realistic": 0.7,
+          "investigative": 0.6
+        },
+        "academic": {
+          "science": 0.8,
+          "commerce": 0.4
+        },
+        "ai_future": {
+          "automation_mindset": 0.4
+        }
+      },
+      "suggestions": [
+        "Hydroponics or IoT sensors",
+        "Food safety projects",
+        "Farm to fork study",
+        "Sustainability certifications"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "description": "Create value by launching new ventures.",
+      "weights": {
+        "riasec": {
+          "enterprising": 1.0
+        },
+        "entrepreneurship": {
+          "initiative": 1.0,
+          "risk_tolerance": 0.7,
+          "customer_focus": 0.8,
+          "resourcefulness": 0.7
+        },
+        "creativity": {
+          "idea_generation": 0.7
+        }
+      },
+      "suggestions": [
+        "Problem interviews",
+        "Build MVPs",
+        "Startup weekends",
+        "Pitch and iterate"
+      ]
+    },
+    {
+      "name": "Global Affairs and International Relations",
+      "description": "Policy, diplomacy, trade, and cultural work across borders.",
+      "weights": {
+        "riasec": {
+          "social": 0.6,
+          "artistic": 0.3
+        },
+        "academic": {
+          "languages": 1.0,
+          "humanities": 0.8
+        },
+        "ethics_global": {
+          "global_awareness": 1.0,
+          "empathy": 0.6
+        }
+      },
+      "suggestions": [
+        "Language immersion",
+        "Model UN leadership",
+        "Cross cultural projects",
+        "Write policy briefs"
+      ]
+    }
+  ]
+}
